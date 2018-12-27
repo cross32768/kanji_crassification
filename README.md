@@ -1,0 +1,2 @@
+# kanji_crassification
+CNNを用いた漢字分類検討のためのリポジトリ
